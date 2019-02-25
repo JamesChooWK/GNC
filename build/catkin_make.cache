@@ -1,0 +1,2 @@
+gdp
+-DCATKIN_DEVEL_PREFIX=/home/james/GNCROS/devel -DCMAKE_INSTALL_PREFIX=/home/james/GNCROS/install -G Unix Makefiles

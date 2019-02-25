@@ -1,0 +1,8 @@
+prefix=/home/james/GNCROS/devel
+
+Name: gdp
+Description: Description of gdp
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/james/GNCROS/devel/lib 
+Requires: 
